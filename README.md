@@ -8,12 +8,10 @@ My linked in profile is https://www.linkedin.com/in/kenneth-miralles-mora-80aa99
 
 You will find the latest Resume, specificy Cover Letters, Certifications, References, MBA titles, and some small projects samples.
 
-You will find also the following fles:
+You will find also a recommendation Letter from HPE Site Manager, and some small project about Data Science, Artificial Intelligence and Python.
 
-Kenneth...Recommendation HP: from HPE Site Manager
+AI Projects: Two projects of my Artificial Intelligence Specialization 
 
-Main AI Projects: Two projects of my Artificial Intelligence Specialization 
-
-Presentation...Mexican.. Restaurant: My final project for the Data Science Specialization, using FourSquare API.
+Data Science Project using FourSquare API.
 
 Python Project: A project using OpenCV, pytesserac and pillow
